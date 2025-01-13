@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kaung Pyae Shan and I'm a Computer Science student, from ....</p>
+<p align="left">My name is Kaung Pyae Shan and I'm a Computer Science student.</p>
 
 ###
 
