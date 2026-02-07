@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kaung Pyae Shan and I'm a Computer Science student.</p>
+<p align="left">My name is Kaung Pyae Shan and cuurrently working as a Software Develooper at a Japanese Company.</p>
 
 ###
 
